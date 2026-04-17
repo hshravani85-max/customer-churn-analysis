@@ -1,5 +1,3 @@
-# customer-churn-analysis
-Customer churn analysis using Python and Power BI
 # 📊 Customer Churn Analysis Dashboard
 
 ## 🔍 Project Overview
